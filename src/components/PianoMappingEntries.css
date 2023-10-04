@@ -1,0 +1,16 @@
+.piano-mapping {
+    margin-top: 20rem;
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #CBEFB6;
+    border-radius: 4%;
+  }
+  
+  .piano-mapping th,
+  .piano-mapping td {
+    padding: 5px;
+    text-align: center;
+    font-size: 16px;
+    color: black;
+  }
+  
